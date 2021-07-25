@@ -1,0 +1,26 @@
+<mjml owa="desktop" version="4.10.1">
+  <mj-head>
+    <mj-preview></mj-preview>
+  </mj-head>
+  <mj-body background-color="#eeeeee" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" alt="" border-radius="px" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://0xizp.mjt.lu/tplimg/0xizp/b/sn483/xsyy6.jpeg" target="_blank" title="" width="1200px"></mj-image>
+        <mj-image align="center" alt="" border-radius="px" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://0xizp.mjt.lu/tplimg/0xizp/b/sn483/xsyyn.jpeg" target="_blank" title="" width="1200px"></mj-image>
+        <mj-image align="center" alt="" border-radius="px" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://0xizp.mjt.lu/tplimg/0xizp/b/sn483/xsy90.jpeg" target="_blank" title="" width="1200px"></mj-image>
+        <mj-image align="center" alt="" border-radius="px" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://0xizp.mjt.lu/tplimg/0xizp/b/sn483/xsy9m.jpeg" target="_blank" title="" width="1200px"></mj-image>
+        <mj-image align="center" alt="" border-radius="px" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://0xizp.mjt.lu/tplimg/0xizp/b/sn483/xsy9o.jpeg" target="_blank" title="" width="1200px"></mj-image>
+        <mj-image align="center" alt="" border-radius="px" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://0xizp.mjt.lu/tplimg/0xizp/b/sn483/xsy9u.jpeg" target="_blank" title="" width="1200px"></mj-image>
+        <mj-social align="center" container-background-color="#bac8d3" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" icon-padding="0px 0px 0px 0px" icon-size="32" line-height="22px" mode="horizontal" padding-left="25px" padding-right="25px" padding="10px 25px 10px 25px" text-decoration="none" text-mode="false">
+          <mj-social-element background-color="#bac8d3" href="" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#bac8d3" href="" name="instagram-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
+          <mj-social-element background-color="#bac8d3" href="" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element background-color="#bac8d3" href="" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="left" color="#000000" container-background-color="#eeeeee" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="10px" padding="10px 25px 0px 25px">
+          <p class="text-build-content" style="line-height: 9px; text-align: center; margin: 10px 0; margin-top: 10px;" data-testid="lZi2z2ah2"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;">No longer want to receive these emails? </span><a class="link-build-content" style="color:inherit;" target="_blank" href="https://google.com"><span style="color:#2262ca;font-family:Arial;font-size:13px;"><u>Unsubscribe</u></span></a><span style="color:#2262ca;font-family:Arial, Helvetica, sans-serif;font-size:13px;">.</span></p><p class="text-build-content" style="line-height: 9px; text-align: center; margin: 10px 0; margin-bottom: 10px;" data-testid="lZi2z2ah2"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;">Kryo Inc. 144 Talbert Pointe Dr. Suite 103 Mooresville, NC 28117</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
